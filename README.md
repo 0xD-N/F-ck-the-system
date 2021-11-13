@@ -24,3 +24,7 @@ Please make sure to update tests as appropriate.
 
 ### License
 [MIT](https://opensource.org/licenses/MIT)
+
+### Other links
+[Mega cloud services](https://mega.nz/)
+[Fast 2 SMS](https://www.fast2sms.com/)
