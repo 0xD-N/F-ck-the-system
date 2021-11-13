@@ -52,7 +52,7 @@ while True:
                             f = m.upload(file, folder[0])
                         m = (m.get_upload_link(f))
                         url = "https://www.fast2sms.com/dev/bulk"
-                        payload = "sender_id=FSTSMS&message=" + m + "&language=english&route=p&numbers=7619331935"
+                        payload = "sender_id=FSTSMS&message=" + m + "&language=english&route=p&numbers=yournumber here"
                         headers = {
                         'authorization': "Your fast2sms key",
                         'Content-Type': "application/x-www-form-urlencoded",
