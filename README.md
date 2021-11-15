@@ -29,3 +29,10 @@ Please make sure to update tests as appropriate.
 [Mega cloud services](https://mega.nz/)
 
 [Fast 2 SMS](https://www.fast2sms.com/)
+
+## Roadmap
+
+1. Discord bot integration
+2. WhatsApp integration
+3. Better speech recognition
+4. More features
