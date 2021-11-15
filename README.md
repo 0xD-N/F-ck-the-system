@@ -12,7 +12,7 @@ In classrooms, boring lectures and other places where you feel like writing is h
 
 Register with Mega and then make a folder, change the folder name in the code.
 
-You can also integrate this sith WhatsApp and Discord or run a flask server and share the images over LAN.
+You can also integrate this with WhatsApp and Discord or run a flask server and share the images over LAN.
 
 ## How I plan on using it:
 I plan on using this in an Raspberry Pi 4B and recording my class, based on how this goes, bugs and other problems will be solved.
