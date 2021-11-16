@@ -32,7 +32,8 @@ Please make sure to update tests as appropriate.
 
 ## Roadmap
 
-1. Discord bot integration
-2. WhatsApp integration
-3. Better speech recognition
-4. More features
+1. Discord bot integration.
+2. WhatsApp integration.
+3. Better speech recognition.
+4. More features.
+5. Better algorithm to stop link spam.
