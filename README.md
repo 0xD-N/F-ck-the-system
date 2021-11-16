@@ -37,3 +37,8 @@ Please make sure to update tests as appropriate.
 3. Better speech recognition.
 4. More features.
 5. Better algorithm to stop link spam.
+
+## Current status:
+1. Testing .
+2. Working on noise cancellation.
+3. Better recognition.
